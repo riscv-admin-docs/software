@@ -1,2 +1,2 @@
-# RISC-V Working Groups: Software
+# Application & Tools Software Horizontal Committee
 
