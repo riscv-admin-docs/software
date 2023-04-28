@@ -1,6 +1,6 @@
-# Software Horizontal Committee Charter
+# Application & Tools Software Horizontal Committee Charter
 
-The Software Horizontal committee nurtures the creation of a dynamic
+The Application & Tools Software Horizontal committee nurtures the creation of a dynamic
 RISC-V software ecosystem to make RISC-V the platform of choice for
 software developers and innovators.  It develops the strategy, does
 gap analysis, and governs subcommittees dedicated to platforms,
