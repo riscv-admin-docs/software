@@ -1,4 +1,4 @@
-# RISC-V Working Groups: Software HC Maintainers
+# Application & Tools Software HC Maintainers
 
--  Chair: Arun Thomas
--  Vice Chair: Philipp Tomsich
+-  Chair: Philipp Tomsich
+-  Vice Chair: David Chen
